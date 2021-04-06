@@ -2,11 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+A game (sort of a modification)
+
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Johnny Tran
 
 ## Do you have any questions of your own?
 
